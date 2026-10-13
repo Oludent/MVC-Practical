@@ -1,0 +1,26 @@
+[
+  {
+    "name": "David",
+    "gender": "Male",
+    "isMarried": "Single",
+    "id": 1
+  },
+  {
+    "name": "Juliet",
+    "gender": "Female",
+    "isMarried": "Married",
+    "id": 2
+  },
+  {
+    "name": "Esther",
+    "gender": "Female",
+    "isMarried": "Married",
+    "id": 3
+  },
+  {
+    "name": "Victor",
+    "gender": "Male",
+    "isMarried": "Single",
+    "id": 4
+  }
+]
